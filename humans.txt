@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Michael Tomko -- @michaeltomko
+
+# THANKS
+
+    The Able Few - http://theablefew.com
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
